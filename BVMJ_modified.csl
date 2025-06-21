@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <!-- بقية إعدادات الاستايل موجودة هنا -->
+
+  <citation>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <names variable="author">
+        <name form="family" />
+      </names>
+      <date variable="issued">
+        <date-part name="year"/>
+      </date>
+    </layout>
+  </citation>
+
+  <!-- بقية الكود كما هو -->
+</style>
